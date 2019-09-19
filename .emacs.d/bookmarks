@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*- 
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-refile-last-stored"
+ (filename . "c:/Users/Weiss/Documents/Org/kenntnisse.org")
+ (front-context-string . "*** [[https://be")
+ (rear-context-string . "好一点。\n\n** 钢笔工具\n\n\n")
+ (position . 52814))
+)

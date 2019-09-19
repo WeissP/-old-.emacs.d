@@ -1,0 +1,156 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/kingb/Documents/Python/JavProject/JavProject/" . "spiders/")
+ ("c:/Users/kingb/Documents/Python/JavProject/" . "JavProject/")
+ ("c:/Users/kingb/Documents/Python/" . "JavProject/")
+ ("c:/Program Files/emax64/" . ".emacs.d/")
+ ("c:/Program Files/" . "emax64/")
+ ("c:/" . "Program Files/")
+ ("c:/Users/kingb/Documents/ahk/" . "autoStart/")
+ ("c:/Users/kingb/Documents/" . "Python/")
+ ("c:/Users/" . "Weiss/")
+ ("c:/Users/Weiss/Downloads/mx-wc/default/" . "2019-02-24-1550999655/")
+ ("c:/Users/Weiss/Downloads/mx-wc/" . "default/")
+ ("c:/Users/Weiss/Downloads/" . "mx-wc/")
+ ("c:/Users/Weiss/" . "Downloads/")
+ ("c:/Users/Weiss/Documents/Org/Bilder/" . "2019-02-17-1550397972/")
+ ("c:/Program Files/emax64/.emacs.d/plugins/evil-org/evil-org-mode-master/" . "doc/")
+ ("c:/Program Files/emax64/.emacs.d/plugins/evil-org/" . "evil-org-mode-master/")
+ ("c:/Program Files/emax64/.emacs.d/plugins/" . "evil-org/")
+ ("c:/Users/Weiss/Documents/Org/" . "Bilder/")
+ ("c:/Program Files/emax64/.emacs.d/elpa/" . "highlight-parentheses-1.1.0/")
+ ("d:/ahk/脚本管理/" . "常用脚本/")
+ ("c:/Program Files/emax64/.emacs.d/" . "elpa/")
+ ("c:/Users/Weiss/Documents/" . "Org/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/kingb/Documents/ahk/autoStart/"
+ "c:/Users/kingb/Documents/Org/"
+ "c:/Users/kingb/Documents/Python/"
+ "c:/Users/kingb/Documents/Python/JavProject/JavProject/"
+ "c:/Users/kingb/Documents/Python/JavProject/JavProject/spiders/"
+ "c:/Users/kingb/Documents/ahk/FunktionsLager/"
+ "c:/Users/kingb/Documents/Lebenslauf/"
+ "c:/Users/kingb/Documents/ahk/Werkzeug/"
+ "c:/Users/kingb/Documents/"
+ "c:/Program Files/emax64/.emacs.d/"
+ "c:/Users/Weiss/Documents/Org/"
+ "d:/ahk/脚本管理/常用脚本/"
+ "c:/Program Files/emax64/.emacs.d/elpa/"
+ "d:/ahk/脚本管理/自启脚本/"
+ "c:/Program Files/emax64/.emacs.d/elpa/highlight-parentheses-1.1.0/"
+ "c:/Users/Weiss/Downloads/mx-wc/default/2019-02-22-1550798972/"
+ "c:/Program Files/emax64/.emacs.d/plugins/evil-org/evil-org-mode-master/doc/"
+ "c:/Users/Weiss/Documents/Org/Bilder/"
+ "c:/Program Files/emax64/.emacs.d/elpa/evil-org-0.1.1/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "search.ahk"
+ "Journey.org"
+ "test.py"
+ "test.html"
+ "Journey.html"
+ "Journey.py"
+ "GetJavLibaray.py"
+ "chmod.py"
+ "Alice.html"
+ "settings.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/kingb/Documents/ahk/autoStart/" (23939 10829 0 0) "[alt]SoftwareSchnellWechseln.ahk.alt" "SoftwareSchnellWechseln.ahk" "SkriptVerwalten.ahk" "settings.ini" "search.ahk" "HHDNoSleep.ahk" "Gestures.ahk" "ClipboardVerwalten.ahk" "andere.ahk" ".#SkriptVerwalten.ahk" "../" "./")
+
+ ("c:/Program Files/emax64/.emacs.d/" (23938 42620 0 0) "url/" "server/" "recentf~" "recentf" "plugins/" "init.el~" "init.el" "init-auto-save.el" "ido.last~" "ido.last" "evil-surround.el~" "elpa/" "cnfonts/" "bookmarks" "auto-save.el~" "auto-save-list/" "ac-comphist.dat" "abbrev_defs" ".org-id-locations" ".mc-lists.el" ".git/" ".emacs.d/" "../" "./")
+
+ ("c:/Users/kingb/Documents/Python/" (23938 42586 0 0) "WeissP 765’s Journey.html" "test.py" "test.html" "Python爬虫.pdf" "Journey.py" "Journey.org" "Journey.html" "../" "./")
+
+ ("c:/Users/kingb/Documents/Org/" (23938 36065 0 0) "Zusammenhang.org~" "Zusammenhang.org" "Vorlesungen.org~" "Vorlesungen.org" "todo.org~" "todo.org_archive" "todo.org" "test.ahk" "org-manual.org" "ltximg/" "lineareAlgebra.org" "kenntnisse.org~" "kenntnisse.org" "Journey.org" "hello-emacs-master.zip" "Hausaufgabe.ahk" "Einsammlung.org~" "Einsammlung.org" "desktop.ini" "Bilder/" ".#Vorlesungen-Conflict958-同调成太郎_Win10.org" ".#Vorlesungen-Conflict-同调成太郎_Win10.org" "../" "./")
+
+ ("c:/Users/kingb/Documents/ahk/Werkzeug/" (23937 3124 0 0) "VideoSearch.ahk" "test.ahk" "StartUp.ahk" "settings.ini" "schnellEingeben.ahk~" "schnellEingeben.ahk" "JoyconHotkey.ahk" "Joycon/" "desktop.ini" "ClipboardVerwalten/" "../" "./")
+
+ ("g:/1/test/" (23935 20965 0 0) "[美竹すず][勾引][身材]-snis710hhb.mp4" "[勾引]01-08-star645FHD.mp4" "[三上悠亚][服侍]-tek079hhb.mp4" "[三上悠亚][sm]-tek083FHD.mp4" "GetJavLibaray.py" "../" "./")
+
+ ("c:/Program Files/emax64/.emacs.d/elpa/" (23935 13354 0 0) "visual-regexp-1.1.1/" "unicad.el" "undo-tree-0.6.5/" "uimage-readme.txt" "uimage-20160901.1221/" "swiper-0.11.0/" "smartparens-20190128.1747/" "s-20180406.808/" "popwin-20150315.1300/" "popup-20160709.1429/" "pkg-info-20150517.1143/" "pinyin-search-1.1.0/" "org-preview-html-20180625.619/" "org-download-readme.txt" "org-download-0.1.0/" "org-bullets-readme.txt" "org-bullets-0.2.4/" "oneonone.el" "multiple-cursors-readme.txt" "multiple-cursors-1.4.0/" "memoize-20180614.1930/" "maxframe.el~" "maxframe.el" "maxframe-settings.el" "log4e-20170401.1304/" "leuven-theme-20190107.1035/" "ivy-readme.txt" "ivy-0.11.0/" "imenus-readme.txt" "imenus-20180505.1717/" "hungry-delete-readme.txt" "hungry-delete-1.1.5/" "highlight-parentheses-1.1.0/" "goto-chg-20190110.2114/" "gntp-20141025.250/" "f-20190109.906/" "evil-visual-replace-readme.txt" "evil-tabs-readme.txt" "evil-surround.el" "evil-surround-readme.txt" "evil-smartparens-readme.txt" "evil-smartparens-0.4.0/" "evil-readme.txt" "evil-nerd-commenter-readme.txt" "evil-nerd-commenter-20190801.148/" "evil-leader-readme.txt" "evil-leader-0.4.3/" "evil-1.2.14/" "epl-20180205.2049/" "doom-themes-readme.txt" "doom-themes-2.1.6/" "deferred-20170901.1330/" "dash-20190128.1920/" "cygwin-mount.el" "cursor-chg.noel" "cursor-change.noel" "counsel-0.11.0/" "company-readme.txt" "company-0.9.9/" "common-lisp-snippets-readme.txt" "command-log-mode-readme.txt" "command-log-mode-20160413.447/" "color-theme-x-readme.txt" "color-theme-solarized-20171024.1525/" "color-theme-20080305.834/" "cnfonts-20180830.2128/" "cdlatex-readme.txt" "cdlatex-4.7/" "auto-shell-command-readme.txt" "auto-shell-command-1.0.2/" "auto-save.el" "auto-save-buffers-enhanced-readme.txt" "auto-complete-chunk-readme.txt" "auto-compile-readme.txt" "auctex-12.1.2/" "async-20181224.454/" "archives/" "all-the-icons-20180125.1557/" "alert-20181022.1742/" "ahk-mode-readme.txt" "ahk-mode-20181113.1238/" "ac-dcd-readme.txt" "abgaben-readme.txt" "../" "./")
+
+ ("c:/Users/kingb/Documents/Python/JavProject/JavProject/" (23934 31109 0 0) "__pycache__/" "__init__.py" "spiders/" "settings.py~" "settings.py" "pipelines.py" "middlewares.py" "items.py~" "items.py" "../" "./")
+
+ ("c:/Users/kingb/Documents/Python/javlibrarycrawler-master/" (23934 29166 0 0) "study_movie.txt" "README.md" "javlibrarycrawler-master.zip" "bestmovie.py" "../" "./")
+
+ ("c:/Users/kingb/Documents/Python/JavProject/JavProject/spiders/" (23934 24103 0 0) "__pycache__/" "__init__.py" "jav_spieder.py~" "jav_spieder.py" "../" "./")
+
+ ("c:/Users/kingb/Documents/Python/JavProject/" (23934 23389 0 0) "scrapy.cfg" "JavProject/" "../" "./")
+
+ ("c:/Users/kingb/Documents/" (23930 48398 0 0) "重要文件/" "我的坚果云/" "备份/" "[ 小鹤音形 ]/" "WindowsPowerShell/" "WeChat Files/" "Vorlesungen/" "Tencent Files/" "technischer Internetzugang/" "Smartisan/" "Python/" "Org/" "OneNote-Notizbücher/" "My Kindle Content/" "mltd聊天室表情包/" "Lebenslauf/" "Eigene Videos/" "Eigene Musik/" "Eigene Bilder/" "Dropbox/" "desktop.ini" "css/" "Bewerbungsanschreiben/" "Benutzerdefinierte Office-Vorlagen/" "ahk/" ".emacs.d/" "../" "./")
+
+ ("c:/Users/kingb/Documents/ahk/FunktionsLager/" (23923 33717 0 0) "RunCmdInAhk.ahk" "Gdip_All.ahk" "gdiplus.dll" "DateienUndBilder.ahk~" "DateienUndBilder.ahk" "ClipAndPaste.ahk~" "ClipAndPaste.ahk" "../" "./")
+
+ ("c:/Users/kingb/Documents/Lebenslauf/" (23920 57002 0 0) "Weiss.css" "newsprint.css~" "newsprint.css" "Lebenslauf.pdf" "Lebenslauf.org~" "Lebenslauf.org" "Lebenslauf.html~" "Lebenslauf.html" "Lebenslauf.css~" "Lebenslauf.css" "Lebenslauf mit Zeugnisse.pdf" "../" "./")
+
+ ("c:/Users/kingb/Documents/css/" (23916 52690 0 0) "typora-default-themes-master/" "../" "./")
+
+ ("c:/Users/kingb/Documents/css/typora-default-themes-master/" (23146 58169 0 0) "themes/" "README.md" "../" "./")
+
+ ("c:/Users/kingb/Documents/css/typora-default-themes-master/themes/" (23917 12540 0 0) "whitey.css" "pixyll.css" "pixyll/" "night.css" "night/" "newsprint.css~" "newsprint.css" "newsprint/" "gothic.css" "gothic/" "github.css" "github/" "../" "./")
+
+ ("c:/Users/kingb/Documents/重要文件/" (23916 51686 0 0) "高中毕业证1.pdf" "高中毕业证.pdf" "金金出生护照/" "英语四级.pdf" "签证/" "护照/" "德语专四带封面.pdf" "德语专四.pdf" "开户/" "小学毕业证书证明.pdf" "初中毕业证1.pdf" "初中毕业证.pdf" "《ABCDV相约德意志》新编德国留学DIY红宝书2018发布版_解密.pdf" "《ABCDV相约德意志》新编德国留学DIY红宝书2018发布版.pdf" "Zeugnis Testdaf.pdf" "Versicherung/" "Untitled.md" "Universitätsabschluss_1-1.pdf" "Universitätsabschluss.pdf" "Universitätsabschluss/" "Uni Augsburg/" "TH Bingen/" "tabelarischer Lebenslauf.pdf" "tabelarischer Lebenslauf.md" "Schulabschlusszeugnis.pdf" "Passfoto.jpg" "Passfoto(kleine).jpg" "Notenlisten aller Studiensemester.pdf" "Notenliste des Schulabschlusszeugnisses.pdf" "Neuer Ordner" "Motivationsschreib.md" "Lebenslauf.pdf" "Lebenslauf.md~" "Lebenslauf.md" "kaiserlautern/" "IMG_87182 2.jpg" "Hochschulzugangsberechtigung/" "Dokumente für die Zulassung.pdf" "braunschweig/" "Bank/" "Bamberg/" "Bachelor-Urkunde.pdf" "APS-Zertifikat.pdf" "201812110946.pdf" "201812110930.pdf" "../" "./")
+
+ ("c:/Program Files/emax64/" (23866 5981 0 0) "share/" "libexec/" "lib/" "include/" "etc/" "bin/" ".git/" ".emacs.d/" "../" "./")
+
+ ("c:/Program Files/" (23866 50937 0 0) "WinRAR/" "WindowsPowerShell/" "WindowsApps/" "Windows Sidebar/" "Windows Security/" "Windows Portable Devices/" "Windows Photo Viewer/" "Windows NT/" "Windows Multimedia Platform/" "Windows Media Player/" "Windows Mail/" "Windows Defender Advanced Threat Protection/" "Windows Defender/" "Uninstall Information/" "Synaptics/" "Reference Assemblies/" "Realtek/" "Nutstore/" "MSBuild/" "ModifiableWindowsApps/" "Microsoft Office 15/" "Microsoft Office/" "McAfee/" "Internet Explorer/" "Intel/" "ImageMagick-7.0.8-Q16/" "Gemeinsame Dateien/" "FlyPYInput/" "emax64/" "ELECOM_Mouse_Driver/" "Dolby/" "desktop.ini" "DAUM/" "Common Files/" "AutoHotkey/" "../" "./")
+
+ ("c:/Users/kingb/" (23865 64353 0 0) "Vorlagen/" "Videos/" "Startmenü/" "SendTo/" "Searches/" "Saved Games/" "Roaming/" "Recent/" "Pictures/" "OneDrive/" "Nutstore/" "ntuser.ini" "NTUSER.DAT{4b5489ce-aeff-11e9-9a6a-5076afaf2ad4}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{4b5489ce-aeff-11e9-9a6a-5076afaf2ad4}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{4b5489ce-aeff-11e9-9a6a-5076afaf2ad4}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "Netzwerkumgebung/" "Music/" "MicrosoftEdgeBackups/" "Lokale Einstellungen/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Eigene Dateien/" "Druckumgebung/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "AppData/" "Anwendungsdaten/" "3D Objects/" "../" "./")
+
+ ("c:/Users/kingb/Documents/ahk/" (23865 65004 0 0) "Werkzeug/" "Script von anderen/" "ImageSearch/" "FunktionsLager/" "autoStart/" "AutoHotkey_de.chm" "Alt/" ".git/" "../" "./")
+
+ ("c:/Program Files/emax64/.emacs.d/plugins/evil-org/evil-org-mode-master/doc/" (23866 5960 0 0) "keythemes.org~" "keythemes.org" "example_config.el" "changelog.org" "../" "./")
+
+ ("c:/Program Files/emax64/.emacs.d/elpa/highlight-parentheses-1.1.0/" (23866 5959 0 0) "highlight-parentheses.elc" "highlight-parentheses.el" "highlight-parentheses-pkg.el" "highlight-parentheses-autoloads.el" "../" "./")
+
+ ("c:/Users/" (23865 59065 0 0) "Public/" "kingb/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/Weiss/Downloads/mx-wc/default/2019-02-24-1550999655/" (23666 24680 0 0) "index.json" "index.html" "assets/" "a-title__第六章：世界都在用的排版系统-少数派" "../" "./")
+
+ ("c:/Users/Weiss/Downloads/mx-wc/default/" (23666 24679 0 0) "2019-02-24-1550999655/" "../" "./")
+
+ ("c:/Users/Weiss/Downloads/mx-wc/" (23666 24679 0 0) "default/" "../" "./")
+
+ ("c:/Users/Weiss/Downloads/" (23666 24684 0 0) "写给大家看的设计书 - Checkvist_files/" "写给大家看的设计书 - Checkvist.html" "世界语言简史 - Checkvist_files/" "世界语言简史 - Checkvist.html" "《语言本能》 - Checkvist_files/" "《语言本能》 - Checkvist.html" "xyplorer_full.zip" "WinRAR_5.60_x64_SC.exe" "TIM2.3.1_3.exe" "SpeedPan_v1.7.3.126.zip" "potplayer/" "mx-wc/" "Listary.exe" "elecom/" "ChromeSetup.exe" "calibre-3.39.1.msi" "AutoHotkey_1.1.30.01.zip" "../" "./")
+
+ ("c:/Users/Weiss/" (23666 19691 0 0) "「开始」菜单/" "Videos/" "Templates/" "SendTo/" "Searches/" "scoop/" "Saved Games/" "Recent/" "PrintHood/" "pip/" "Pictures/" "OneDrive/" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{baef9be8-5e7f-11e8-ba69-c4346b01d25e}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{baef9be8-5e7f-11e8-ba69-c4346b01d25e}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{baef9be8-5e7f-11e8-ba69-c4346b01d25e}.TM.blf" "NTUSER.DAT{baef9be7-5e7f-11e8-ba69-c4346b01d25e}.TxR.blf" "NTUSER.DAT{baef9be7-5e7f-11e8-ba69-c4346b01d25e}.TxR.2.regtrans-ms" "NTUSER.DAT{baef9be7-5e7f-11e8-ba69-c4346b01d25e}.TxR.1.regtrans-ms" "NTUSER.DAT{baef9be7-5e7f-11e8-ba69-c4346b01d25e}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "Links/" "IntelGraphicsProfiles/" "Favorites/" "Evernote/" "dwhelper/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "3D Objects/" ".vscode/" ".ssh/" ".scoop" ".qshell/" ".NEMU/" ".local/" ".gitconfig" ".FBReader/" ".emacs.d/" ".bash_history" ".atom/" ".android/" "../" "./")
+
+ ("c:/Users/Weiss/Documents/Org/" (23666 22334 0 0) "Zusammenhang.org~" "Zusammenhang.org" "todo.org~" "todo.org_archive~" "todo.org_archive" "todo.org" "spacemacs_ evil mode _ Ming's Blog.html" "org-manual.org~" "org-manual.org" "note.org~" "note.org" "note.md~" "note.md" "nansu.gif" "Kenntnisse.org~" "kenntnisse.org" "hello-emacs-master.zip" "Einsammlung.org~" "Einsammlung.org" "Bilder/" "#org-manual.org#" "#note.org#" "../" "./")
+
+ ("d:/ahk/脚本管理/常用脚本/" (23665 20371 0 0) "记时器.ahk" "模拟鼠标点击.ahk" "挡字幕.ahk" "快速整理歌曲信息.ahk" "定时器.ahk" "双击查词.ahk" "不熄屏.ahk~" "不熄屏.ahk" "test.ahk~" "Notizen-machen.ahk~" "Notizen-machen.ahk" "MdToOrg.ahk~" "MdToOrg.ahk" "BilderUrländern.ahk~" "BilderUrländern.ahk" "autokopieren.ahk~" "autokopieren.ahk" "#不熄屏.ahk#" "../" "./")
+
+ ("d:/ahk/脚本管理/自启脚本/" (23664 101 0 0) "音乐控制.ahk" "键盘模拟鼠标.a1hk" "键位管理.ahk~" "键位管理.ahk" "输入优化.ahk~" "输入优化.ahk" "自动切换输入法.ahk" "脚本管理器.ahk" "符号.ahk" "气泡提醒.ahk" "整理时间.1ahk" "搜索&菜单.ahk" "快速添加生词.ahk" "快速切换窗口.ahk~" "快速切换窗口.ahk" "剪贴板管理.ahk" "万能搜索.a1hk" "time.ini" "startup.exe" "startup.ahk" "SpaceZ.ahk" "settings.ini~" "settings.ini" "org.test" "MdToOrg.ahk~" "Gestures.ahk" "Dropbox hochfahren.ahk~" "Dropbox hochfahren.ahk" "../" "./")
+
+ ("c:/Users/Weiss/Downloads/mx-wc/default/2019-02-22-1550798972/" (23663 20604 0 0) "index.json" "index.html" "assets/" "a-title__一份isearch的使用总结" "../" "./")
+
+ ("c:/Users/Weiss/Downloads/mx-wc/default/2019-02-21-1550753240/" (23662 40409 0 0) "index.json" "index.html" "assets/" "a-title__冥想减压法" "../" "./")
+
+ ("c:/Users/Weiss/Documents/" (23660 60142 0 0) "问答.pdf" "销量统计.docx" "身份证背面.jpg" "身份证正面.jpg" "身份证手持.jpg" "证件照.png" "论文封面.docx" "行李清单.pdf" "自定义 Office 模板/" "腾讯影视库/" "翻译.docx" "简历.pdf" "简历.docx" "概念.docx" "未标题-1.psd" "未标题-1.ai" "文档 (13).pdf" "文档 (13).docx" "我的数据源/" "德语和汉语中英源外来词的对比研究（终稿）（封面）.pdf" "德语和汉语中英源外来词的对比研究（终稿）1.pdf" "德语和汉语中英源外来词的对比研究（终稿）1.docx" "德语和汉语中英源外来词的对比研究（终稿）.pdf" "德语和汉语中英源外来词的对比研究（终稿）.docx" "德语和汉语中英源外来词的对比研究（终稿）(正文).pdf" "德语和汉语中英源外来词的对比研究.pdf" "德国留学/" "录音/" "工作簿3.xlsx" "工作簿1.xlsx" "屏幕比例计算.xlsx" "少数派投稿/" "对新生支持度.md" "实验.xlsx" "实验.csv" "大纲.docx" "图1.png" "名片正面备份.psd" "名片备份正面.psd" "名片.psd" "名片.jpg" "名片/" "优酷影视库/" "中国（含西藏、香港和澳门） 2017年人权报告 _ 美国驻华大使馆和领事馆.pdf" "世界语言简史.pdf" "上海外国语大学贤达经济人文学院2018届毕业生文明离校须知(1).docx" "上外贤达学院论文指导记录.docx" "~$和汉语中英源外来词的对比研究（终稿）1.docx" "[116]字型散步.pdf" "[ 小鹤双拼 飞扬 ]/" "Youku Files/" "Wondershare Video Converter Free/" "Wirtschaftsdutsch.png" "Wirtschaftsdutsch.mmap" "Wirtschaftsdutsch.emmx" "WindowsPowerShell/" "WeChat Files/" "Untitled-1.md" "Titanic02.rar" "test.org" "test.html" "Tencent Files/" "tabelarischer Lebenslauf.pdf" "SS 账号密码及使用方法.md" "Smartisan/" "ScreenGif.gif" "Scatter/" "query08181.rar" "psE660.tmp" "ppt制图练习2.png" "ppt制图练习1.png" "ppt制图练习.pptx" "ppt制图练习.png" "pandoc/" "Outlook-Dateien/" "org_preview_html-HNi5Cn.html" "org_preview_html-aPIFZ5.html" "Org/" "OneNoteGem/" "OneNote 笔记本/" "Note(2018-03-08).csv" "Nostalgic Orchestra(福富雅之、藤本记子)音乐大全中的访谈.pdf" "NetSarang/" "My Videos/" "My Pictures/" "My Music/" "My Maps/" "My Kindle Content/" "My Games/" "MuMu共享文件夹/" "ML音乐大全.pdf" "MEGAsync Downloads/" "MEGAsync/" "MD_for_onenote/" "MD/" "Manuals/" "Lebenslauf.pdf" "Lebenslauf.md" "Lebenslauf.docx" "Lebenslauf - 副本.pdf" "IM@S音乐整理（ML）.xlsx" "IM@S音乐整理（ML）.pdf" "IM@S音乐整理（ML）/" "IM@S音乐整理试验.xlsx" "GIF.gif" "Fonts/" "DVDFabCommon/" "DVDFab10-BackupByDVDFab10Portable/" "DVDFab10/" "DVDFab Passkey/" "Deutsche Geschichte.png" "Deutsche Geschichte.mmap" "Deutsche Geschichte.emmx" "desktop.ini" "Decrypt Output/" "Database6.accdb" "Database5.accdb" "Database4.accdb" "Database3.accdb" "Database2.accdb" "Database1.accdb" "Contacts(2018-03-08).csv" "checkvist备份20190110.txt" "Calibre-Bibliothek/" "bookmarks.html" "Bilisound/" "Benutzerdefinierte Office-Vorlagen/" "Apowersoft/" "AirDroid/" "Adobe/" "Aboboo/" "2nd校对day2-1.docx" "2nd校对day1-1.docx" "2019_1_10 下午2_28_24_tabelarischer Lebenslauf_0002.emf" "2019_1_10 下午2_28_24_tabelarischer Lebenslauf_0001.emf" "2018 回顾.md" "14112134 白泊舟 德语一班.docx" "123.xlsx" "123.mmap" "123.avi.avi" "1.psd" "../" "./")
+
+ ("c:/Users/Weiss/Documents/Org/Bilder/2019-02-17-1550397972/" (23657 12936 0 0) "index.json" "index.html" "assets/" "a-title__Emacs之魂（四）：标识符-符号和变量-知乎" "../" "./")
+
+ ("c:/Users/Weiss/Documents/Org/2019-02-17-1550397972/" (23657 12936 0 0) "index.json" "index.html" "assets/" "a-title__Emacs之魂（四）：标识符-符号和变量-知乎" "../" "./")
+
+ ("c:/Program Files/emax64/.emacs.d/plugins/evil-org/evil-org-mode-master/" (23654 48202 0 0) "doc/" "../" "./")
+
+ ("c:/Program Files/emax64/.emacs.d/plugins/evil-org/" (23654 48202 0 0) "README.org" "evil-org.el" "evil-org-test.el" "evil-org-mode-master.zip" "evil-org-mode-master/" "evil-org-agenda.el" "../" "./")
+
+ ("c:/Program Files/emax64/.emacs.d/plugins/" (23654 48186 0 0) "evil-org/" "../" "./")
+
+ ("c:/Program Files/emax64/.emacs.d/elpa/evil-org-0.1.1/" (23654 28664 0 0) "evil-org.elc" "evil-org.el" "evil-org-pkg.el" "evil-org-autoloads.el" "evil-org-agenda.el" "../" "./")
+
+ ("d:/ahk/脚本管理/" (23651 31013 0 0) "自启脚本/" "脚本管理器.ahk" "气泡提醒(foorbar).ahk" "快速搜索.ahk" "德福报名.ahk" "常用脚本/" "实验.ahk" "定时点击.ahk" "多功能搜索.ahk" "备份/" "他人脚本/" "临时2" "临时1" "临时.jpeg" "Weiss-selbst.css" "solarized.css" "settings.ini" "new .ahk" "listary备份.txt" "init.el" "goldendict-anki.ahk" "Gestures.ahk" "FastSort快速整理文件.zip" "FastSort/" "Excel/" "cue.ahk" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
